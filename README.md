@@ -13,7 +13,6 @@
 ## 📑 Inhaltsverzeichnis
 - [✨ Features](#-features)
 - [💻 Installation](#-installation)
-- [🎮 Bedienung](#-bedienung)
 - [🗺️ Roadmap](#️-roadmap)
 - [🔧 Fehlerbehebung](#-fehlerbehebung)
 - [📄 Lizenz](#-lizenz)
@@ -39,10 +38,10 @@
 
 # Abhängigkeiten installieren
    pip install -r requirements.txt
-   ```
-5. Anwendung starten:
-   ```bash
-   python remote_manager.py
+
+# RemoteManager starten
+   python RemoteManager.py
+
    ```
 
 ## 🗺️ Roadmap
@@ -63,7 +62,7 @@
 2. Bei Bedarf Issue auf GitHub erstellen.
 
 ### Support
-- **GitHub Issues**: [Bug-Reports und Feature-Requests](https://github.com/Gerrxt07/RemoteManager/issues)
+- **GitHub Issues**: [Bug-Reports](https://github.com/Gerrxt07/RemoteManager/issues)
 - **E-Mail**: gerrxt07@proton.me
 - **Discord**: [Phantom Community](https://discord.gg/T4p98xbHVz)
 
