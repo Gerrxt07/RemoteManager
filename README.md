@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🖥️ RemoteManager</h1>
-  <p>Ein modernes und kompaktes Remote Desktop-Tool (RDP) für mehrere Remote-Verbindungen auf Windows.</p>
+  <p>Ein modernes und kompaktes Remote Desktop-Tool (RDP) zum verwalten von mehreren Remote-Verbindungen auf Windows.</p>
 
   ![Status](https://img.shields.io/badge/Status-Alpha-red)
   ![Version](https://img.shields.io/github/v/release/Gerrxt07/RemoteManager?include_prereleases)
@@ -70,7 +70,7 @@
 
 Dieses Projekt ist unter der GNU General Public License v3.0 (GPLv3) lizenziert - siehe [LICENSE](LICENSE) für Details.
 
-Diese Lizenz garantiert Ihnen folgende Freiheiten:
+Diese Lizenz garantiert folgende Freiheiten:
 - Die Software für jeden Zweck auszuführen
 - Die Software zu studieren und zu modifizieren
 - Kopien der Software weiterzugeben
